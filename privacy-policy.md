@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: 07/19/2025
+Last updated: 07/19/2025
 
 This Privacy Policy explains how THSV Counting Bot collects and uses your information.
 
